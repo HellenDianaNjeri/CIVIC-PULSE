@@ -1,0 +1,22 @@
+# Ignore environment config
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code / Editor settings
+.vscode/
+.idea/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Bolt & UI exports
+ui-designs/bolt-prototype/
+
+# Virtual environments
+venv/
+env/
+.learn-env/
