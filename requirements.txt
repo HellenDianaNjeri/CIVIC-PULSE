@@ -1,0 +1,13 @@
+# UI
+tk
+
+# Supabase
+supabase-py
+httpx[http2]
+
+# API & HTTP
+requests
+python-dotenv
+
+# Optional: Language Detection
+langdetect
